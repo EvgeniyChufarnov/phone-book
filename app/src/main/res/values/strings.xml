@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PhoneBook</string>
+    <string name="access">Доступ к контактам</string>
+    <string name="explanation">Для дальнейшей работы приложению необходим доступ к контактам</string>
+    <string name="decline">Не надо</string>
+    <string name="accept">Предоставить доступ</string>
+    <string name="close">Закрыть</string>
+    <string name="extract_contacts">Получить контакты</string>
 </resources>
